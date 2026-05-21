@@ -1,4 +1,4 @@
-# 🧠 AI Powered Credit Card Default Prediction Project
+# Credit Card Default Prediction Project
 
 
 ---
